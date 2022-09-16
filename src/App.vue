@@ -1,5 +1,5 @@
 <template>
-  <h1></h1>
+  <h2>Спасибо, что зашли на мой github</h2>
 </template>
 
 <script>
