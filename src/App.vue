@@ -9,7 +9,16 @@
 <script>
 
 export default {
-
+  data() {
+    return {
+      clicks: 0
+    }
+  },
+  methods: {
+    addClicks() {
+      this.clicks += 1;
+    }
+  }
 }
 </script>
 
